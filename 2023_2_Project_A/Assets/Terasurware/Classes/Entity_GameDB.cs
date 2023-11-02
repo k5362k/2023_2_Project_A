@@ -17,7 +17,7 @@ public class Entity_GameDB : ScriptableObject
 	public class Param
 	{
 		
-		public double index;
+		public int index;
 		public string characterName;
 		public int hp;
 		public int mp;
